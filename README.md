@@ -1,2 +1,4 @@
 # git_test
-testing git in ubuntu 
+My first Github repo!
+By the Odin Projet 
+Hello Odin 
